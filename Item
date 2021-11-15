@@ -3,3 +3,11 @@ item2 = Item('Phone', 100, 1)
 item3 = Item('cable', 10, 3)
 item4 = Item('Mouse', 55, 1)
 item5 = Item('Keyboard', 75, 1)
+
+// csv file
+'Laptop', 1000, 2
+'Phone', 100, 1
+'cable', 10, 3
+'Mouse', 55, 1
+'Keyboard', 75, 1
+'Projector', 500, 2
