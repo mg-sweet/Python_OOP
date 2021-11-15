@@ -5,6 +5,7 @@ item4 = Item('Mouse', 55, 1)
 item5 = Item('Keyboard', 75, 1)
 
 // csv file
+name, price ,quantity
 'Laptop', 1000, 2
 'Phone', 100, 1
 'cable', 10, 3
